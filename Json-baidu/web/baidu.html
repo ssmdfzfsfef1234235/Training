@@ -1,0 +1,100 @@
+<html>
+<head>
+    <meta charset="GBK">
+    <title>百度</title>
+    <style type="text/css">
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #box {
+            display: inline-block;
+        }
+
+        #search {
+            width: 545px;
+            height: 42px;
+            border-color: #4E6EF2;
+            border-top-left-radius: 10px;
+            border-bottom-left-radius: 10px;
+            float: left;
+        }
+
+        #btn {
+            width: 108px;
+            height: 42px;
+            background-color: #4e6ef2;
+            color: #fff;
+            border: none;
+            font-size: 17px;
+            font-weight: 400;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+            float: left;
+        }
+
+        #show {
+            width: 545px;
+            border: 1px solid #4e6ef2;
+            position: relative;
+            left: -55px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+<center>
+    <img alt="" width="310" height="150" src="img/baidu.png"><br/>
+    <div id="box">
+        <!-- 输入框 -->
+        <input id="search" type="text" name="search"/>
+        <button id="btn">百度一下</button>
+    </div>
+    <!-- 数据展示 -->
+    <div id="show">
+
+    </div>
+
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script>
+        //给输入框绑定内容改变事件
+        $("#search").keyup(function () {
+            //获取输入框的内容
+            var inputStr = $("#search").val();
+
+            //去掉输入内容中间的空格
+            var value = inputStr.replaceAll(" ", "");
+
+            //当输入了内容，就去发送ajax请求进行数据查询
+            if(value != "") {
+                $.ajax({
+                    url:"searchServlet",
+                    data:{
+                        "keyword":value
+                    },
+                    type:"post",
+                    async:true,
+                    dataType:"json",
+                    success:function (resp) {
+                        console.log(resp);
+                        var result = "";//<div>张三</div>
+
+                        for (let i = 0; i < resp.length; i++) {
+                            result += "<div>" + resp[i].sname + "</div>";
+                        }
+
+                        //innerHtml
+                        $("#show").html(result).show();
+                    }
+                });
+            } else {
+                $("#show").hide();
+            }
+        })
+    </script>
+
+</center>
+
+</body>
+</html>

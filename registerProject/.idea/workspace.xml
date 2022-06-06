@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="registerProject:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b869ef2b-b352-4f62-a386-1308520739aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="29apZq91afJ0BuvSwxwkWcVhh3s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.offcn.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA\CODE\registerProject\web\WEB-INF\lib" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\CODE\registerProject\web\WEB-INF" />
+      <recent name="E:\IDEA\CODE\registerProject\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.701">
+    <configuration name="UserDaoTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="registerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.offcn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.offcn.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.selectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="registerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.offcn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.offcn.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="selectById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.selectByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="registerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.offcn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.offcn.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="selectByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.selectCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="registerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.offcn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.offcn.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="selectCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImpl.testRegisterUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="registerProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offcn.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.offcn.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.offcn.service.impl.UserServiceImpl" />
+      <option name="METHOD_NAME" value="testRegisterUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.701" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.701" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="E:\Java\jdk 1.8.0_202\jre">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="registerProject:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/register" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_701_registerProject" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54472" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="registerProject:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserDaoTest.selectAll" />
+      <item itemvalue="JUnit.UserDaoTest.selectById" />
+      <item itemvalue="JUnit.UserDaoTest.selectCount" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.701" />
+      <item itemvalue="JUnit.UserDaoTest.selectByName" />
+      <item itemvalue="JUnit.UserServiceImpl.testRegisterUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceImpl.testRegisterUser" />
+        <item itemvalue="JUnit.UserDaoTest.selectByName" />
+        <item itemvalue="JUnit.UserDaoTest.selectById" />
+        <item itemvalue="JUnit.UserDaoTest.selectCount" />
+        <item itemvalue="JUnit.UserDaoTest.selectAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21327683" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b869ef2b-b352-4f62-a386-1308520739aa" name="Default Changelist" comment="" />
+      <created>1653361108150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653361108150</updated>
+      <workItem from="1653361112193" duration="12437000" />
+      <workItem from="1653378526529" duration="2037000" />
+      <workItem from="1653380594230" duration="1975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653381063172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1653381063172" />
+    <state x="772" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1653376616775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="772" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1653376616775" />
+    <state x="718" y="143" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1653373767954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="718" y="143" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1653373767954" />
+    <state x="412" y="24" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1653377251073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="24" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.728@0.0.1366.728" timestamp="1653377251073" />
+    <state x="749" y="121" key="FileChooserDialogImpl" timestamp="1653382443402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="749" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1653382443402" />
+    <state width="1322" height="269" key="GridCell.Tab.0.bottom" timestamp="1653382571311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653382571311" />
+    <state width="1322" height="269" key="GridCell.Tab.0.center" timestamp="1653382571311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1653382571311" />
+    <state width="1322" height="269" key="GridCell.Tab.0.left" timestamp="1653382571311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1653382571311" />
+    <state width="1322" height="269" key="GridCell.Tab.0.right" timestamp="1653382571311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="269" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1653382571311" />
+    <state width="556" height="2" key="GridCell.Tab.1.bottom" timestamp="1653382571304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653382571304" />
+    <state width="556" height="2" key="GridCell.Tab.1.center" timestamp="1653382571304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1653382571304" />
+    <state width="556" height="2" key="GridCell.Tab.1.left" timestamp="1653382571304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1653382571304" />
+    <state width="556" height="2" key="GridCell.Tab.1.right" timestamp="1653382571304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1653382571304" />
+    <state width="556" height="2" key="GridCell.Tab.2.bottom" timestamp="1653382571306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653382571306" />
+    <state width="556" height="2" key="GridCell.Tab.2.center" timestamp="1653382571304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1653382571304" />
+    <state width="556" height="2" key="GridCell.Tab.2.left" timestamp="1653382571304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1653382571304" />
+    <state width="556" height="2" key="GridCell.Tab.2.right" timestamp="1653382571306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="556" height="2" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1653382571306" />
+    <state x="191" y="0" key="SettingsEditor" timestamp="1653382470922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="191" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1653382470922" />
+    <state x="381" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1653374607034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1653374607034" />
+    <state x="759" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1653373789117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="759" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1653373789117" />
+    <state x="107" y="0" key="new project wizard" timestamp="1653382569421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="107" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1653382569421" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1653375982353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1653375982353" />
+  </component>
+</project>
